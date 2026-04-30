@@ -1,9 +1,9 @@
 /** Project: Solo Lab 7 Assignment
  * Purpose Details: Space game with background stars, random colors, ship image,
  * sprite sheet obstacles, score color, audio, reset, shield, health, timer, and levels.
- * Course:
+ * Course: IST 242
  * Author: Kenneth Klos
- * Date Developed:
+ * Date Developed:4/29/2026
  * Last Date Changed:
  * Rev:
  */
