@@ -136,7 +136,7 @@ public class SpaceGame extends JFrame implements KeyListener {
         };
 
         scoreLabel = new JLabel("Score: 0");
-        scoreLabel.setForeground(Color.GREEN);
+        scoreLabel.setForeground(Color.BLUE);
         scoreLabel.setBounds(10, 10, 90, 20);
         gamePanel.add(scoreLabel);
 
